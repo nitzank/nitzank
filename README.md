@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Nitzan 👋</h1>
-<h3 align="center">UX Lead | Senior Product Designer | Illustrator</h3>
+<h3 align="center">UX Lead | Senior Product Designer | AI Builder | Artist</h3>
 <p align="center">📍 Austin, TX</p>
 
 <p align="center">
@@ -12,6 +12,9 @@
   </a>
   <a href="https://nitzanklamer.com/ai-experiments">
     <img src="https://img.shields.io/badge/AI%20Garage-252525?style=for-the-badge&logo=Web&logoColor=white" alt="AI Garage" />
+  </a>
+  <a href="https://nitzanklamer.com/">
+    <img src="https://img.shields.io/badge/Art-252525?style=for-the-badge&logo=Web&logoColor=white" alt="Art" />
   </a>
 </p>
 
